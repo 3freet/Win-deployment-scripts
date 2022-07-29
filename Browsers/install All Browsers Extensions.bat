@@ -1,7 +1,7 @@
 cd /d %~dp0\
 
 call "Google\Chrome\InstallExtensions.bat"
-cd ..
+cd ..\..
 call "Microsoft\Edge\InstallExtensions.bat"
-cd ..
+cd ..\..
 call "Mozilla\Firefox\InstallExtensions.bat"
