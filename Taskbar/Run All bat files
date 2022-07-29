@@ -1,0 +1,5 @@
+cd /d %~dp0\
+
+call "Bat Files\disable search taskbar cmd.bat"
+call "Bat Files\edit feeds"
+call "Bat Files\Show Desktop Icons.bat"
